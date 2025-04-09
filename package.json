@@ -1,0 +1,15 @@
+{
+  "name": "interbank-academy-25",
+  "version": "1.0.0",
+  "description": "Aplicación de línea de comandos (CLI) que procesa un archivo CSV con transacciones bancarias y genera un reporte.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js data.csv"
+  },
+  "author": "Heraldo Fortuna",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
