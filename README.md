@@ -80,11 +80,11 @@ Dado que el archivo CSV tiene el separador ;, se ajustó el código para usar sp
 ## Estructura del Proyecto:
 
 INTERBANK-ACADEMY-25/
-├── .gitignore
-├── data.csv
-├── index.js
-├── package.json
-└── README.md
+- .gitignore
+- data.csv
+- index.js
+- package.json
+- README.md
 
 ### gitignore:
 - Este archivo especifica los archivos y carpetas que Git debe ignorar en tu proyecto. Esto es útil para excluir archivos temporales, archivos de configuración específicos del entorno, módulos de node_modules, etc., que no deberían ser rastreados por el sistema de control de versiones.
