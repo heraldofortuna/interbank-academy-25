@@ -45,7 +45,7 @@ function showReport(balance, supTransaction, count) {
 }
 
 if (process.argv.length < 3) {
-    console.error(chalk.red('❌ Uso: node solution.js <archivo_csv>'));
+    console.error(chalk.red('❌ Uso: npm run start'));
     process.exit(1);
 }
 
